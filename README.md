@@ -1,2 +1,2 @@
 # Arya Academy Edtech Project
-Live : https://ed-tech-platform-sigma.vercel.app/
+Live : https://edu-tech-platform-seven.vercel.app/
